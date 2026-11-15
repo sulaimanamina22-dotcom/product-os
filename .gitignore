@@ -1,0 +1,7 @@
+.claude/
+.scratch/
+outputs/
+memory/projects/*
+!memory/projects/_TEMPLATE/
+.env
+*.log
